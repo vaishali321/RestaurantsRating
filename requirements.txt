@@ -2,13 +2,11 @@ gunicorn
 imbalanced-learn==0.8.0
 imblearn==0.0
 jupyter==1.0.0
-matplotlib 
 numpy==1.19.5
 pandas 
 scikit-image==0.18.1
 scikit-learn 
 scipy 
-seaborn 
 simplegeneric==0.8.1
 spyder 
 statsmodels==0.12.2
